@@ -19,6 +19,6 @@
     </style>
   </head>
   <body>
-    <img src="微信图片_20251021150132_59_162.jpg" alt="ImageShow" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="20251021150132.jpg" alt="ImageShow" style="width: 100%; height: 100%; object-fit: cover;" />
   </body>
 </html>
